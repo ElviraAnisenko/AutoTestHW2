@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/e20qry26carkhbvo/branch/main?svg=true)](https://ci.appveyor.com/project/ElviraAnisenko/autotesthw2-ocbo2/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/e20qry26carkhbvo?svg=true)](https://ci.appveyor.com/project/ElviraAnisenko/autotesthw2-ocbo2)
